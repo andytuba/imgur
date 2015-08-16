@@ -11,6 +11,7 @@ by Imgur
 All your favorite Imgur features made simple for your mobile device.
 
 [ ![Android app on Google Play][2]][3]
+[ ![iOS App on App Store][iosappstore]][39]
 
 ## MemeGen Apps
 
@@ -19,6 +20,8 @@ by Imgur
 Imgur's very own MemeGen app is now available on iOS and Android. Create memes using the most popular templates, or use your own images. MemeGen also automates uploading of your generated memes to Imgur for easy sharing.
 
 [ ![Get it on Google Play][4]][5]
+
+[ ![iOS App on App store][iosappstore]][40]
 
 ## Firefox Extension
 
@@ -193,4 +196,7 @@ A plugin ("accessory") for Snagit that allows sending the currently captured ima
 [35]: https://github.com/ceryn/img
 [36]: https://github.com/hmemcpy
 [37]: https://github.com/hmemcpy/SnagitImgur
+[iosappstore]: https://linkmaker.itunes.apple.com/htmlResources/assets/en_us//images/web/linkmaker/badge_appstore-lrg.png
+[39]: https://geo.itunes.apple.com/us/app/imgur/id639881495?mt=8&uo=6
+[40]: https://itunes.apple.com/us/app/imgur-memegen/id715739379?mt=8&uo=4
   </https:>
