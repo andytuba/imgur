@@ -23,6 +23,14 @@ Imgur's very own MemeGen app is now available on iOS and Android. Create memes u
 
 [ ![iOS App on App store][iosappstore]][40]
 
+## ScreenToss
+
+Take screenshots and upload to imgur and dropbox. $5. OS X only.
+
+http://www.airsquirrels.com/screentoss/
+https://itunes.apple.com/us/app/screentoss/id888049815?ls=1&mt=12
+
+
 ## Firefox Extension
 
 by [Chromakode][6]
